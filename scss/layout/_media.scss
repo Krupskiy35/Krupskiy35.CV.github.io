@@ -1,0 +1,301 @@
+@media screen and (max-width: 1800px) {
+  .stock_main-wrapper {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 1600px) {
+  .stock_main-wrapper {
+    width: 70%;
+  }
+}
+
+
+@media screen and (max-width: 1380px) {
+  .rocket_wrapper {
+    animation: none;
+  }
+  .main_text-button{
+    animation: none;
+  }
+  .animation_wrapper {
+    animation: none;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .stock_main-wrapper {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .stock_main-wrapper {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .img-box_profit {
+    margin-left: 80px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .stock_main-wrapper {
+    background: url(../../img/svg/stock_1.svg) no-repeat top;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+  }
+  .logo-wrapper {
+    background: url(../../img/svg/stock_2.svg) no-repeat bottom;
+    -webkit-background-size: 47%;
+    -moz-background-size: 47%;
+    -o-background-size: 47%;
+    background-size: 47%;
+
+  }
+  .main_text-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .info-main_text {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1.7em;
+    padding-bottom: 300px;
+  }
+  .info-top_wrapper {
+    background: url(../../img/svg/stock_3.svg) no-repeat center top 140px;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+  }
+  .list-wraper {
+    width: 96%;
+    height: auto;
+    margin-bottom: 25px;
+    background: url(../../img/svg/stock_4.svg) no-repeat center left -25px;
+    -webkit-background-size: 25%;
+    -moz-background-size: 25%;
+    -o-background-size: 25%;
+    background-size: 25%;
+  }
+  .mobile-block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .small-text {
+    font-size: 1.4em;
+  }
+  .main_text-button{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background: url(../../img/svg/wave.svg) no-repeat center bottom -35px;
+    -webkit-background-size: 310%;
+    -moz-background-size: 310%;
+    -o-background-size: 310%;
+    background-size: 310%;
+    animation: none;
+
+
+  }
+  .animation_wrapper{
+     width: 100%;
+     height: auto;
+     background: url(../../img/svg/blue_move.svg) no-repeat bottom 30px;
+     -webkit-background-size: 205%;
+     -moz-background-size: 205%;
+     -o-background-size: 205%;
+     background-size: 205%;
+      animation: none;
+   }
+  .small-text_bottom.mob_huge{
+    line-height: 30px;
+  }
+
+
+  .rocket_wrapper{
+    width: 100%;
+    height: auto;
+    background: url(../../img/svg/rocket.svg) no-repeat  bottom  right 10px;
+    -webkit-background-size: 20%;
+    -moz-background-size: 20%;
+    -o-background-size: 20%;
+    background-size: 20%;
+    animation: none;
+  }
+
+
+
+
+  .small-text_bottom{
+    margin: 0;
+    text-align: center;
+    padding: 13px 10px 150px;
+    font-size: 1.5em;
+  }
+  .go-bottom{
+    margin: 0;
+
+  }
+  .white-bottom{
+    background-color: transparent;
+    color: #ffff;
+    border: 1px solid #ffff;
+  }
+
+  .profit_stock-wrapper {
+    padding: 10px 10px;
+  }
+  .huge_main-text {
+    font-size: 1.5em;
+  }
+  .img-box_profit {
+    margin-left: 0;
+    width: 95px;
+    height: 55px;
+  }
+  .profit-text_bottom {
+    font-size: 1.4em;
+    margin-left: 20px;
+  }
+  .stock-content {
+    padding-bottom: 250px;
+
+  }
+  .stock-content {
+
+    -webkit-background-size: 90%;
+    -moz-background-size: 90%;
+    -o-background-size: 90%;
+    background-size: 90%;
+
+  }
+  .start-trading {
+    width: 100%;
+    height: auto;
+    padding: 10px 10px;
+  }
+  .start_huge-text {
+    text-align: center;
+    font-size: 1.5em;
+  }
+  .start-text {
+    width: 100%;
+    padding-left: 80px;
+    margin: 0;
+  }
+  .length{
+    padding-left: 0;
+  }
+  .like_img {
+    background: url(../../img/svg/stock_9.svg) no-repeat left top 25px;
+    -webkit-background-size: 19.5%;
+    background-size: 19.5%;
+  }
+  .video-box_item {
+    width: 100%;
+    height: 305px;
+  }
+  .easy-trading {
+    background: url(../../img/svg/stock_10.svg) no-repeat bottom ;
+    -webkit-background-size: 200%;
+    background-size: 200%;
+    padding-bottom: 50px;
+  }
+  .easy_number-box {
+    width: 100%;
+  }
+
+  .consultant-box {
+    background: url(../../img/svg/stock_11.svg) no-repeat right top 30px;
+    -webkit-background-size: 45%;
+    background-size: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 0;
+  }
+  .consultant {
+    text-align: center;
+    margin: 30px 10px;
+    max-width: 280px;
+    font-size: 1.6em;
+  }
+  .huge-text.move_start {
+    font-size: 1.5em;
+  }
+  .help_img{
+    width: 80px;
+  }
+  .stock-content.top-four {
+    padding-bottom: 0;
+  }
+  .top-four_text {
+    line-height: 25px;
+    color: #000000;
+    font-size: 1.3em;
+    font-weight: 400;
+  }
+  .stock-content.form_box {
+    background: url(../../img/svg/stock_12.svg) no-repeat top;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    padding-top: 150px;
+  }
+  .wrapper-footer {
+    padding: 30px 10px;
+  }
+  .footer-icon_input {
+    width: 20%;
+  }
+  .footer-icon_input .help_img {
+    width: 50px;
+  }
+  .arow-help{
+    width: 50px;
+  }
+
+}
+
+@media screen and (max-width: 380px){
+  .info-main_text {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1.5em;
+  }
+  .animation_wrapper{
+    width: 100%;
+    height: auto;
+    background: url(../../img/svg/blue_move.svg) no-repeat bottom 30px;
+    -webkit-background-size: 230%;
+    -moz-background-size: 230%;
+    -o-background-size: 230%;
+    background-size: 230%;
+    animation: none;
+  }
+}
+
+@media screen and (min-width: 992px){
+
+}
+
+@media screen and (max-width: 991px) {
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media screen and (max-width: 767px) {
+
+}
